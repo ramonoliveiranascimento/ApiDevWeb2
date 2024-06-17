@@ -1,6 +1,10 @@
 {
     "recommendations": [
         "formulahendry.code-runner",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "prisma.prisma",
+        "prisma.prisma-insider",
+        "qwtel.sqlite-viewer",
+        "rangav.vscode-thunder-client"
     ]
 }
